@@ -1,2 +1,2 @@
 # projFoam
-Projection method for Navier-Stokes equations in OpenFOAM
+Projection method, or fractional step method for Navier-Stokes equations in OpenFOAM
